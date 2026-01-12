@@ -2,9 +2,8 @@ Virtual Thread vs Normal Thread
 - Spring REST Controller on Virtual Threads Performance
 - Batch Processing on Virtual Threads Performance vs Platform Thread Performance
 
+![Virtual Threads Result]([./images/virtual-threads.png](https://github.com/user-attachments/assets/6acbe37c-15fa-4e68-bdb2-8af71bae0efd))
 
-Virtual Thread Result
-<img width="798" height="643" alt="Screenshot 2569-01-12 at 22 00 58" src="https://github.com/user-attachments/assets/6acbe37c-15fa-4e68-bdb2-8af71bae0efd" />
 
 
 Platform Thread Result
